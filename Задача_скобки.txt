@@ -1,5 +1,3 @@
-Псевдокод
- 
 boolean check(s: string):
    counter = 0
    for i = 1 to length(s)
